@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.5ec481e1.chunk.css",
+    "main.js": "/ecommerce/static/js/main.a4ac0bcc.chunk.js",
+    "main.js.map": "/ecommerce/static/js/main.a4ac0bcc.chunk.js.map",
+    "runtime-main.js": "/ecommerce/static/js/runtime-main.a8dd26d0.js",
+    "runtime-main.js.map": "/ecommerce/static/js/runtime-main.a8dd26d0.js.map",
+    "static/css/2.6c74ebd9.chunk.css": "/ecommerce/static/css/2.6c74ebd9.chunk.css",
+    "static/js/2.2d859f94.chunk.js": "/ecommerce/static/js/2.2d859f94.chunk.js",
+    "static/js/2.2d859f94.chunk.js.map": "/ecommerce/static/js/2.2d859f94.chunk.js.map",
+    "index.html": "/ecommerce/index.html",
+    "static/css/2.6c74ebd9.chunk.css.map": "/ecommerce/static/css/2.6c74ebd9.chunk.css.map",
+    "static/css/main.5ec481e1.chunk.css.map": "/ecommerce/static/css/main.5ec481e1.chunk.css.map",
+    "static/js/2.2d859f94.chunk.js.LICENSE.txt": "/ecommerce/static/js/2.2d859f94.chunk.js.LICENSE.txt",
+    "static/media/avatar.f5ed2058.png": "/ecommerce/static/media/avatar.f5ed2058.png",
+    "static/media/brand3.1a0049b1.png": "/ecommerce/static/media/brand3.1a0049b1.png",
+    "static/media/electronics.d6d2d41f.png": "/ecommerce/static/media/electronics.d6d2d41f.png",
+    "static/media/high-heels.a16047a8.png": "/ecommerce/static/media/high-heels.a16047a8.png",
+    "static/media/item.79eafdfb.png": "/ecommerce/static/media/item.79eafdfb.png",
+    "static/media/laptops.a5a6ab64.png": "/ecommerce/static/media/laptops.a5a6ab64.png",
+    "static/media/logo.58a518fe.png": "/ecommerce/static/media/logo.58a518fe.png",
+    "static/media/mobile.1c4bc892.png": "/ecommerce/static/media/mobile.1c4bc892.png",
+    "static/media/mobile1.1997f77f.png": "/ecommerce/static/media/mobile1.1997f77f.png",
+    "static/media/mobile2.1b3cf130.png": "/ecommerce/static/media/mobile2.1b3cf130.png",
+    "static/media/prod1.9f9a0d84.png": "/ecommerce/static/media/prod1.9f9a0d84.png",
+    "static/media/prod3.c073f706.png": "/ecommerce/static/media/prod3.c073f706.png",
+    "static/media/prod4.60c973db.png": "/ecommerce/static/media/prod4.60c973db.png",
+    "static/media/sale-tag.85799ce3.png": "/ecommerce/static/media/sale-tag.85799ce3.png",
+    "static/media/slider1.2d6dc5a9.png": "/ecommerce/static/media/slider1.2d6dc5a9.png",
+    "static/media/slider4.8049dedb.png": "/ecommerce/static/media/slider4.8049dedb.png",
+    "static/media/watch.62459905.png": "/ecommerce/static/media/watch.62459905.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8dd26d0.js",
+    "static/css/2.6c74ebd9.chunk.css",
+    "static/js/2.2d859f94.chunk.js",
+    "static/css/main.5ec481e1.chunk.css",
+    "static/js/main.a4ac0bcc.chunk.js"
+  ]
+}
